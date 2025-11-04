@@ -46,7 +46,7 @@
 <h1>Some of my Projects! 🎨</h1>
 
 <p align="center">
-  <a href="https://github.com/Juachoprograma12/analisis-calidad-sueno/blob/main/CALIDAD_DE_SUEÑO.ipynb" target="_blank">
+  <a href="AluraStoreLatam.ipynb">
     📌 Ver Proyecto Completo
   </a>
 </p>
